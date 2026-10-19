@@ -150,7 +150,7 @@ def main():
         print("Usage:")
         print(
             r'  python "C:\Users\266510\Desktop\DSRT930\Living\breusch_pagan_check.py" '
-            r'"C:\Users\266510\Desktop\DSRT930\Living\Q6_Q29_with_Constructs_Updated.csv"'
+            r'"path/to/your_data.csv"'
         )
         sys.exit(1)
 
