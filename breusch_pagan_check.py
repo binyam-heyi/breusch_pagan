@@ -135,8 +135,8 @@ def main():
     CSV data file can be provided as:
     1. Command-line argument: python breusch_pagan_check.py "path/to/file.csv"
     2. Environment variables:
-       - DSRT930_DATA_PATH: Path to the data directory
-       - DSRT930_CSV_FILE: Name of the CSV file
+       - Path to the data directory
+       -  Name of the CSV file
     3. The CSV path must be provided as a command-line argument.
     """
 
